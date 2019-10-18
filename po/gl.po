@@ -361,7 +361,7 @@ msgstr ", "
 #~ "Non foi posíbel contactar con Contractor. É probábel que precise instalalo"
 
 #~ msgid "No action found for this file"
-#~ msgstr "No se atopou ningunha acción para este ficheiro"
+#~ msgstr "Non se atopou ningunha acción para este ficheiro"
 
 #~ msgid "%a %b %e %Y"
 #~ msgstr "%a %e de %b de %Y"
